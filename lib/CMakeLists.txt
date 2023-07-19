@@ -1,0 +1,1 @@
+add_library(MP3parse MP3parser.cpp Output.cpp Get.cpp Set.cpp)
